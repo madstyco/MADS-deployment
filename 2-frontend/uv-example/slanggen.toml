@@ -2,7 +2,7 @@
 assets_dir = "assets"
 artefacts_dir = "artefacts"
 filename = "babynamen.txt"
-url = "https://www.svb.nl/nl/media/jongensnamen-2024-10-populair-json.txt"
+url = "https://www.svb.nl/nl/media/meisjesnamen-2024-10-populair-json.txt"
 
 [model]
 embedding_dim = 32
